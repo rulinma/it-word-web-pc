@@ -1,2 +1,1 @@
-# it-word-web-pc
-AI记单词Web之PC
+# AI记单词Web之PC
